@@ -1,0 +1,29 @@
+remote_theme: just-the-docs/just-the-docs
+
+logo: "/imgs/sunsetlodgegame.png"
+
+search_enabled: true
+
+aux_links:
+  "Group":
+    - "https://web.roblox.com/groups/9978830/Sunset-Lodge-Corporation#!/about"
+   "Game":
+    - "https://sunsetlodge.github.io/support"
+   "Quiz Centre":
+    - "https://sunsetlodge.github.io/support"
+    "Training Centre":
+    - "https://sunsetlodge.github.io/support"
+    aux_links_new_tab: false
+    
+color_scheme: dark
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+title: Sunset Lodge Support
+description: A support website for Sunset Lodge
+baseurl: "/support"
+url: "https://sunsetlodge.github.io"
