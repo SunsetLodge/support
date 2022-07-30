@@ -1,7 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
 
-logo: "/imgs/sunsetlodgegame.png"
-
 search_enabled: true
 
 aux_links:
