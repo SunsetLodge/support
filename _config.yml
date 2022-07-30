@@ -4,13 +4,14 @@ search_enabled: true
 
 aux_links:
   "Group":
-    - "https://web.roblox.com/groups/9978830/Sunset-Lodge-Corporation#!/about"
-   "Game":
-    - "https://sunsetlodge.github.io/support"
-   "Quiz Centre":
-    - "https://sunsetlodge.github.io/support"
-    "Training Centre":
-    - "https://sunsetlodge.github.io/support"
+    - "//web.roblox.com/groups/9978830/Sunset-Lodge-Corporation#!/about"
+  "Game":
+    - "//sunsetlodge.github.io/support"
+  "Quiz Centre":
+    - "//sunsetlodge.github.io/support"
+   "Training Centre":
+    - "//sunsetlodge.github.io/support"
+    
     aux_links_new_tab: false
     
 color_scheme: dark
