@@ -2,18 +2,6 @@ remote_theme: just-the-docs/just-the-docs
 
 search_enabled: true
 
-aux_links:
-  "Group":
-    - "//web.roblox.com/groups/9978830/Sunset-Lodge-Corporation#!/about"
-  "Game":
-    - "//sunsetlodge.github.io/support"
-  "Quiz Centre":
-    - "//sunsetlodge.github.io/support"
-   "Training Centre":
-    - "//sunsetlodge.github.io/support"
-    
-    aux_links_new_tab: false
-    
 color_scheme: dark
 
 back_to_top: true
