@@ -1,4 +1,4 @@
-# Sunset Lodge Support Website
+# Home
 
 Welcome! 👋
 
